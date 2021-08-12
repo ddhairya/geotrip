@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geotrip/static/css/main.a617e044.chunk.css",
+    "main.js": "/geotrip/static/js/main.d1ed0950.chunk.js",
+    "main.js.map": "/geotrip/static/js/main.d1ed0950.chunk.js.map",
+    "runtime-main.js": "/geotrip/static/js/runtime-main.dcf636b0.js",
+    "runtime-main.js.map": "/geotrip/static/js/runtime-main.dcf636b0.js.map",
+    "static/js/2.9e4155e3.chunk.js": "/geotrip/static/js/2.9e4155e3.chunk.js",
+    "static/js/2.9e4155e3.chunk.js.map": "/geotrip/static/js/2.9e4155e3.chunk.js.map",
+    "static/js/3.22f10d36.chunk.js": "/geotrip/static/js/3.22f10d36.chunk.js",
+    "static/js/3.22f10d36.chunk.js.map": "/geotrip/static/js/3.22f10d36.chunk.js.map",
+    "index.html": "/geotrip/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/geotrip/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9e4155e3.chunk.js.LICENSE.txt": "/geotrip/static/js/2.9e4155e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcf636b0.js",
+    "static/js/2.9e4155e3.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d1ed0950.chunk.js"
+  ]
+}
