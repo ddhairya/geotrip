@@ -1,4 +1,4 @@
-# React App GeoTrip[https://ddhairya.github.io/geotrip/] to get an egale view of the destinations you wish to visit
+# React App GeoTrip(https://ddhairya.github.io/geotrip/) to get an egale view of the destinations you wish to visit
 
 
 ## Available Use of Libraies and Technologies :
